@@ -19,5 +19,5 @@ This project is being built with production-quality standards in mind to demonst
 - Database: (TBD)
 
 ## Development Log
-Day 1: Project Inirialization: Repository initialized, Initial project structure defined, Basic search page implemented.
-Day 3: Player Page Foundation: Implemented query parameter extraction using URLSearchParams, Dynamically updated page title based on searched player, Added defensive validation for missing/blank search values, Built initial Player Info Card UI, Implemented DOM manipulation for team and position fields, and Tested conditional rendering with hardcoded player data.
+- Day 1: Project Inirialization: Repository initialized, Initial project structure defined, Basic search page implemented.
+- Day 3: Player Page Foundation: Implemented query parameter extraction using URLSearchParams, Dynamically updated page title based on searched player, Added defensive validation for missing/blank search values, Built initial Player Info Card UI, Implemented DOM manipulation for team and position fields, and Tested conditional rendering with hardcoded player data.
